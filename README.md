@@ -1,1 +1,2 @@
 # neural-networks-for-handwritten-digits-classification
+deep learning algorithm that consists of interconnected nodes or "neurons" organized into layers. Neural networks can learn complex patterns and relationships in the data by adjusting the weights and biases of the connections between neurons during training. There are many types of neural networks, including feedforward neural networks, recurrent neural networks, and convolutional neural networks. Neural networks are commonly used in speech recognition, image classification, and natural language processing.
